@@ -461,7 +461,7 @@ footer{background:#0b1220;color:#d6deeb;padding:50px 0 100px}
 .map-head .eyebrow{
   display:inline-block;
   margin-bottom:10px;
-  color:#6d28d9;
+  color:#0f766e;
   font-size:13px;
   font-weight:900;
   letter-spacing:.12em;
@@ -519,7 +519,7 @@ footer{background:#0b1220;color:#d6deeb;padding:50px 0 100px}
   padding:7px 12px;
   border-radius:999px;
   background:#f5f3ff;
-  color:#6d28d9;
+  color:#0f766e;
   font-size:12px;
   font-weight:900;
 }
@@ -687,7 +687,7 @@ footer{background:#0b1220;color:#d6deeb;padding:50px 0 100px}
 .vehicle-head .eyebrow{
   display:inline-block;
   margin-bottom:9px;
-  color:#6d28d9;
+  color:#0f766e;
   font-size:12px;
   font-weight:900;
   letter-spacing:.13em;
@@ -734,7 +734,7 @@ footer{background:#0b1220;color:#d6deeb;padding:50px 0 100px}
 }
 
 .vehicle-brand-card h3 span{
-  color:#6d28d9;
+  color:#0f766e;
   font-size:11px;
   font-weight:800;
 }
@@ -761,9 +761,9 @@ footer{background:#0b1220;color:#d6deeb;padding:50px 0 100px}
 }
 
 .vehicle-model-list a:hover{
-  border-color:#6d28d9;
+  border-color:#0f766e;
   background:#f5f3ff;
-  color:#6d28d9;
+  color:#0f766e;
   transform:translateY(-1px);
 }
 
@@ -781,7 +781,7 @@ footer{background:#0b1220;color:#d6deeb;padding:50px 0 100px}
   height:48px;
   padding:0 22px;
   border-radius:12px;
-  background:#6d28d9;
+  background:#0f766e;
   color:#fff;
   font-size:14px;
   font-weight:900;
@@ -881,7 +881,7 @@ footer{background:#0b1220;color:#d6deeb;padding:50px 0 100px}
 .model-seo-brand{
   display:inline-block;
   margin-bottom:10px;
-  color:#6d28d9;
+  color:#0f766e;
   font-size:12px;
   font-weight:900;
   letter-spacing:.08em;
@@ -1041,12 +1041,12 @@ footer{background:#0b1220;color:#d6deeb;padding:50px 0 100px}
 }
 
 .privacy-consent strong{
-  color:#6d28d9;
+  color:#0f766e;
 }
 
 .privacy-consent a{
   margin-left:5px;
-  color:#6d28d9;
+  color:#0f766e;
   font-weight:800;
   text-decoration:underline;
 }
@@ -1260,12 +1260,12 @@ footer{background:#0b1220;color:#d6deeb;padding:50px 0 100px}
 
 /* 전체 포인트 */
 :root{
-  --blue:#6d28d9;
+  --blue:#0f766e;
 }
 
 /* 상단 버튼 */
 .nav-cta{
-  background:linear-gradient(135deg,#6d28d9,#8b5cf6) !important;
+  background:linear-gradient(135deg,#0f766e,#14b8a6) !important;
   color:#fff !important;
   border-radius:999px !important;
   padding:12px 22px !important;
@@ -1300,7 +1300,7 @@ footer{background:#0b1220;color:#d6deeb;padding:50px 0 100px}
 }
 
 .hero h1 strong{
-  color:#6d28d9 !important;
+  color:#0f766e !important;
 }
 
 .eyebrow{
@@ -1335,7 +1335,7 @@ footer{background:#0b1220;color:#d6deeb;padding:50px 0 100px}
 
 .quote-head .badge{
   background:#f3e8ff !important;
-  color:#6d28d9 !important;
+  color:#0f766e !important;
   border-radius:999px !important;
   padding:7px 12px !important;
 }
@@ -1343,7 +1343,7 @@ footer{background:#0b1220;color:#d6deeb;padding:50px 0 100px}
 /* 견적 버튼 */
 .submit-btn,
 .final-main-btn{
-  background:linear-gradient(135deg,#6d28d9,#8b5cf6) !important;
+  background:linear-gradient(135deg,#0f766e,#14b8a6) !important;
   color:#fff !important;
   border-radius:16px !important;
   border:0 !important;
@@ -1370,7 +1370,7 @@ footer{background:#0b1220;color:#d6deeb;padding:50px 0 100px}
 
 .icon-box{
   background:linear-gradient(145deg,#f3e8ff,#ede9fe) !important;
-  color:#6d28d9 !important;
+  color:#0f766e !important;
   border-radius:18px !important;
 }
 
@@ -1402,7 +1402,7 @@ footer{background:#0b1220;color:#d6deeb;padding:50px 0 100px}
 }
 
 .floating-free{
-  background:linear-gradient(135deg,#6d28d9,#8b5cf6) !important;
+  background:linear-gradient(135deg,#0f766e,#14b8a6) !important;
   color:#fff !important;
 }
 
@@ -1486,7 +1486,7 @@ footer{background:#0b1220;color:#d6deeb;padding:50px 0 100px}
   place-items:center;
   border-radius:50%;
   background:#f3e8ff;
-  color:#6d28d9;
+  color:#0f766e;
   font-size:20px;
   font-weight:700;
 }
